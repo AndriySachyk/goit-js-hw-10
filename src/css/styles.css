@@ -17,4 +17,23 @@ body {
   padding: 8px;
   max-width: 320px;
   margin-bottom: 16px;
+  
+}
+
+.item-country{
+  display: flex;
+  gap: 10px;
+  height: 60px;
+  align-items: center;
+}
+
+.country-list{
+  list-style: none;
+}
+
+.li-countries{
+  height: 50px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
 }
